@@ -1,7 +1,7 @@
 
 > Open this page at [https://melvinpao.github.io/thermometer-with-oled/](https://melvinpao.github.io/thermometer-with-oled/)
 
-This uses a micro:bit that is connected to 128x64 OLED module throught the i2c bus.
+This uses a micro:bit that is connected to a 128x64 OLED module throught the i2c bus.
 
 Uses the oled12864_i2c 1.5.0 extension the Makecode.
 
