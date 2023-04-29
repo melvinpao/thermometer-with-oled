@@ -2,9 +2,13 @@
 > Open this page at [https://melvinpao.github.io/thermometer-with-oled/](https://melvinpao.github.io/thermometer-with-oled/)
 
 This uses a micro:bit that is connected to 128x64 OLED module throught the i2c bus.
+
 Uses the oled12864_i2c 1.5.0 extension the Makecode.
+
 The i2c bus is exposed by connecting the micro:bit board to an ElectFreaks breakout board, although I think other compatible micro:bit breakout boards would likely work as well as long as there is the appropriate pins.
+
 Currently it just displays the current temperauture, max temperature detected and min temperature detected, and displays the values on the OLED screen.
+
 Future plans include using a TMP36 temperature sensor as an external probe.
 
 ## Use as Extension
